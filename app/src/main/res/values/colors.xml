@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- res/values/colors.xml -->
+        <!-- Primary branding colors -->
+        <color name="colorPrimary">#6200EE</color>
+        <color name="colorPrimaryDark">#3700B3</color>
+        <color name="colorAccent">#03DAC5</color>
+
+        <!-- Background and text colors -->
+        <color name="colorBackground">#FFFFFF</color>
+        <color name="colorTextPrimary">#000000</color>
+        <color name="colorTextSecondary">#757575</color>
+
+        <!-- Notification and Status colors -->
+        <color name="colorNotification">#FF5722</color>
+        <color name="colorError">#B00020</color>
+
+        <color name="Green">#24F007</color>
+
+        <!-- Light and Dark Variants (Optional) -->
+        <color name="colorSurface">#FFFFFF</color>
+        <color name="colorOnPrimary">#FFFFFF</color> <!-- White text on Primary -->
+        <color name="colorOnAccent">#000000</color> <!-- Black text on Accent -->
+
+
+</resources>
